@@ -1,0 +1,27 @@
+{
+  "presets": ["next/babel"],
+  "plugins": [
+    [
+      "styled-components",
+      {
+        "ssr": true,
+        "displayName": true,
+        "preprocess": false
+      }
+    ],
+    [
+      "module-resolver",
+      {
+        "root": ["./"],
+        "alias": {
+          "@components": "./components",
+          "@ui": "./components/UI",
+          "@styles": "./styles",
+          "@hooks": "./hooks",
+          "@GraphQl": "./GraphQl",
+          "@state": "./state"
+        }
+      }
+    ]
+  ]
+}
