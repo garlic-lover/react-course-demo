@@ -1,0 +1,673 @@
+[
+  {
+    "order": {
+      "main": "Hymenoptera",
+      "sub": null
+    },
+    "family": "Formicidae",
+    "commonNames": ["Hormiga escamolera", " escamoles"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Querétaro"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Tlaxcala"
+      },
+      {
+        "name": "Nuevo León"
+      },
+      {
+        "name": "Guerrero"
+      },
+      {
+        "name": "Distrito Federal"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Orthoptera",
+      "sub": null
+    },
+    "family": "Acrididae",
+    "commonNames": ["Chapulines"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Distrito Federal"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Chiapas"
+      },
+      {
+        "name": "Tlaxcala"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera ",
+      "sub": null
+    },
+    "family": "Cerambycidae",
+    "commonNames": ["Chiza", " chanulcate", " gusano de los pinos"],
+    "estados": [
+      {
+        "name": "México"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Durango"
+      },
+      {
+        "name": "Nuevo León"
+      },
+      {
+        "name": "Chiapas"
+      },
+      {
+        "name": "Veracruz"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Hemiptera ",
+      "sub": "Heteroptera"
+    },
+    "family": "Ligaeidae",
+    "commonNames": ["Mosquito"],
+    "estados": [
+      {
+        "name": "Puebla"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Orthoptera",
+      "sub": null
+    },
+    "family": "Acrididae",
+    "commonNames": ["Chapulines"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Veracruz"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Hemiptera ",
+      "sub": "Heteroptera"
+    },
+    "family": "Pentatomidae",
+    "commonNames": ["Jumiles"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Chiapas"
+      },
+      {
+        "name": "Chihuahua"
+      },
+      {
+        "name": "Durango"
+      },
+      {
+        "name": "Guerrero"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Jalisco"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Morelos"
+      },
+      {
+        "name": "Nayarit"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Veracruz"
+      },
+      {
+        "name": "Distrito Federal"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Hemiptera ",
+      "sub": "Auchenorryncha"
+    },
+    "family": "Membracidae",
+    "commonNames": ["Toritos"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Veracruz"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera ",
+      "sub": null
+    },
+    "family": "Melolonthidae",
+    "commonNames": ["Morciegas"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Michoacán"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Lepidoptera",
+      "sub": null
+    },
+    "family": "Cossidae",
+    "commonNames": ["Chinicuil", " chilocuil", " techol", " tecoles"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Tlaxcala"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Veracruz"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Michoacán"
+      },
+      {
+        "name": "Guanajuato"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Coahuila"
+      },
+      {
+        "name": "Distrito Federal"
+      },
+      {
+        "name": "Querétaro"
+      },
+      {
+        "name": "Zacatecas"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Psocoptera",
+      "sub": null
+    },
+    "family": "Psocidae",
+    "commonNames": ["Texca"],
+    "estados": [
+      {
+        "name": "Puebla"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Lepidoptera",
+      "sub": null
+    },
+    "family": "Pyralidae",
+    "commonNames": ["Gusano del nopal"],
+    "estados": [
+      {
+        "name": "Tlaxcala"
+      },
+      {
+        "name": "Distrito Federal"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Hidalgo"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Lepidoptera",
+      "sub": null
+    },
+    "family": "Megathymidae",
+    "commonNames": ["Gusano blanco de maguey", " gusano mantequilla"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Tlaxcala"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Veracruz"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Michoacán"
+      },
+      {
+        "name": "Guanajuato"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Coahuila"
+      },
+      {
+        "name": "Distrito Federal"
+      },
+      {
+        "name": "Querétaro"
+      },
+      {
+        "name": "Zacatecas"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Hemiptera ",
+      "sub": "Auchenorryncha"
+    },
+    "family": "Cercopidae",
+    "commonNames": ["Mosca de la hierba"],
+    "estados": [
+      {
+        "name": "Puebla"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Hymenoptera",
+      "sub": null
+    },
+    "family": "Formicidae",
+    "commonNames": ["Hormigas de la pancita"],
+    "estados": [
+      {
+        "name": "México"
+      },
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "San Luis Potosí"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Hymenoptera",
+      "sub": null
+    },
+    "family": "Vespidae",
+    "commonNames": ["Avispa negra"],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Chiapas"
+      },
+      {
+        "name": "Veracruz"
+      },
+      {
+        "name": "San Luis Potosí"
+      },
+      {
+        "name": "Nayarit"
+      },
+      {
+        "name": "Michoacán"
+      },
+      {
+        "name": "Tlaxcala"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Cerambycidae",
+    "commonNames": ["Gusano del palo", " Gusano del ocote"],
+    "estados": [
+      {
+        "name": "México"
+      },
+      {
+        "name": "Hidalgo"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Cerambycidae",
+    "commonNames": [
+      "Tumbas",
+      " Cuatolin",
+      " Ciervo volante",
+      " Gusano de los palos",
+      " Chipacacue",
+      " Rompe palos"
+    ],
+    "estados": [
+      {
+        "name": "Chiapas"
+      },
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Veracruz"
+      },
+      {
+        "name": "Oaxaca"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Cerambycidae",
+    "commonNames": ["Texcan", " Cuahutemolin"],
+    "estados": [
+      {
+        "name": "Chiapas"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Curculionidae",
+    "commonNames": ["Picudo del nopal", " Picudos", " Gusano del nopal"],
+    "estados": [
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Chiapas"
+      },
+      {
+        "name": "México"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Cerambycidae",
+    "commonNames": ["Gusano de los palos", " Ticoco del encino podrido"],
+    "estados": [
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Oaxaca"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Cerambycidae",
+    "commonNames": [
+      "Sulthona",
+      " Virgencita",
+      " Pipitillas",
+      " Gusano de palo"
+    ],
+    "estados": [
+      {
+        "name": "Chiapas"
+      },
+      {
+        "name": "México"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Hydrophilidae",
+    "commonNames": ["Atetépitz", " Achichimalli"],
+    "estados": [
+      {
+        "name": "México"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera ",
+      "sub": null
+    },
+    "family": "Curcurlionidae",
+    "commonNames": [
+      "Tepocho",
+      " Gusanos del Maguey",
+      " Mone",
+      " Xacanal",
+      " Botijas del Maguey",
+      " Gusanos Nixtamaleros"
+    ],
+    "estados": [
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Tlaxcala"
+      },
+      {
+        "name": "México"
+      },
+      {
+        "name": "Veracruz"
+      },
+      {
+        "name": "Oaxaca"
+      },
+      {
+        "name": "Michoacán"
+      },
+      {
+        "name": "Guanajuato"
+      },
+      {
+        "name": "Hidalgo"
+      },
+      {
+        "name": "Puebla"
+      },
+      {
+        "name": "Coahuila"
+      },
+      {
+        "name": "Distrito Federal"
+      },
+      {
+        "name": "Querétaro"
+      },
+      {
+        "name": "Zacatecas"
+      },
+      {
+        "name": "Yucatán"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Dytiscidae",
+    "commonNames": ["Cucaracha de agua"],
+    "estados": [
+      {
+        "name": "México"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "",
+    "commonNames": [
+      "Coatécpatl",
+      " Xopanxacalli",
+      " Atetépitz",
+      " Achichimalli"
+    ],
+    "estados": [
+      {
+        "name": "México"
+      }
+    ]
+  },
+  {
+    "order": {
+      "main": "Coleoptera",
+      "sub": null
+    },
+    "family": "Gyrinidae",
+    "commonNames": ["Quichi"],
+    "estados": [
+      {
+        "name": "Veracruz"
+      },
+      {
+        "name": "México"
+      }
+    ]
+  }
+]
